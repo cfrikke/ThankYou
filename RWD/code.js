@@ -5,3 +5,5 @@ document.getElementById("nameuse").innerHTML = ("name");
   document.getElementById("submit").classList.ToggleClass("hide");
   document.getElementById("thanks").classList.ToggleClass("hide");
   document.getElementById("nameuse").classList.ToggleClass("hide");
+  document.getElementById("name2").classList.ToggleClass("hide");
+}
